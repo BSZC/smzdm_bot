@@ -38,8 +38,7 @@
 在没有更换`SMZDM_COOKIE`的情况下，截至2020-12-12, 我的账号已正常签到68天，具体`SMZDM_COOKIE`有效时间继续验证。  
 <img src="pics/log_20201212.jpg" width="300" height="200" alt="签到截图" div align=center /><br/>
 
-+ 2020-10-08  
-first push
+
 
 + 2020-12-12  
 修复如果没有填写`SERVERCHAN_SECRETKEY`，会在正常签到后报错的问题。  
